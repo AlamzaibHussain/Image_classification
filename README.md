@@ -1,6 +1,6 @@
-# Image_classification
-Image Classification using Logistic Regression and SVM with Feature Engineering
-Overview
+# Image_classification  
+Image Classification using Logistic Regression and SVM with Feature Engineering  
+Overview  
 This project implements image classification using Logistic Regression and Support Vector Machine (SVM). The classification models are trained using feature-engineered representations of images instead of raw pixel data to improve performance.
 
 Key Features
