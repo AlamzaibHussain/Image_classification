@@ -10,11 +10,8 @@ Support Vector Machine (SVM): A powerful classifier that leverages kernel techni
 Dataset Handling: Uses standard image datasets and applies preprocessing steps such as resizing, grayscale conversion, and normalization.  
 Performance Evaluation: Evaluates models using accuracy, confusion matrix, precision, recall, and F1-score.  
 ## Technologies Used  
-#### Python  
-#### NumPy  
-#### Pandas  
-#### OpenCV   
-#### Scikit-Image  
-#### Scikit-Learn  
-#### Matplotlib  
-#### Seaborng  
+#### Python
+#### NumPy, Pandas (Data manipulation)
+#### OpenCV, Scikit-Image (Image processing)
+#### Scikit-Learn (Machine learning models)
+#### Matplotlib, Seaborn (Data visualization) 
